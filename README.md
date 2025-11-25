@@ -6,23 +6,6 @@ Copyright Daniel Harding - RomanAILabs
 QUICK START (30 seconds)
 ───────────────────────────────────────────────────────────
 
-
------------------------------
-
-# Method A — Global install (recommended)
-curl -L https://tinyurl.com/python5-final -o python5
-chmod +x python5
-sudo mv python5 /usr/local/bin/python5
-
-# Method B — Project-local (portable)
-curl -LO https://tinyurl.com/python5-final
-chmod +x python5
-
-# Method C — Alias forever
-echo 'alias python5="python3 ~/tools/python5.py"' >> ~/.bashrc
-
-----------------------------
-
 Run Anything
 
 python5 train.py --model llama3.2 --epochs 100
