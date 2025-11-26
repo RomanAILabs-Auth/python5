@@ -1,7 +1,8 @@
 # python5 v1.0 — OFFICIAL INSTRUCTION MANUAL
 THE FINAL SINGULARITY · NOVEMBER 2025 EDITION
 Copyright Daniel Harding - RomanAILabs
-
+Let's save python everyone!
+Send me an email! romanailabs@gmail.com
 
 Quick start, make an alias for the file called "python5"
 ---------------------------------
