@@ -32,21 +32,22 @@ All in one file. Zero boilerplate. Zero syntax changes.
 🚀 Quick Start
 
 First, download or clone python5.py.
-
+------------------------------------------------
 Linux / macOS (bash/zsh)
 
 Add this to ~/.bashrc or ~/.zshrc:
 alias python5='python3 /full/path/to/python5.py'
 source ~/.bashrc
-
+-----------------------------------------------
 Windows Powershell
 function python5 { python "C:\path\to\python5.py" $args }
-
+-----------------------------------------------
 Windows CMD
 doskey python5=python C:\path\to\python5.py $*
-
+-----------------------------------------------
 RUN IN!
 python5 yourfile.py
+-----------------------------------------------
 
 That's it.
 
